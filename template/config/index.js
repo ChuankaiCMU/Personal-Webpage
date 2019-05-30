@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: '/Personal-Webpage/',
     proxyTable: {},
 
     // Various Dev Server settings
