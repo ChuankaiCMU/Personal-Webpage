@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <div> Page under construction! come back later..</div>
+    <img src="./assets/UNDER-CONSTRUCTION.jpg" width="70%">
     <router-view/>
   </div>
 </template>
