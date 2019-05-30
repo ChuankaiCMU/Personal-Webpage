@@ -1,7 +1,5 @@
 <template>
   <div id="app">
-    <div> Page under construction! come back later..</div>
-    <img src="./assets/UNDER-CONSTRUCTION.jpg" width="70%">
     <router-view/>
   </div>
 </template>
@@ -19,6 +17,10 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+}
+body {
+  background-color: #95a673;
+  background-image: url("./assets/background.jpg");
+  background-size: 100%;
 }
 </style>
