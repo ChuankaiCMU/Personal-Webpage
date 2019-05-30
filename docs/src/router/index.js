@@ -11,7 +11,7 @@ Vue.use(BootstrapVue)
 export default new Router({
   routes: [
     {
-      path: '',
+      path: '/',
       name: 'Navbar',
       component: Navbar
     }
