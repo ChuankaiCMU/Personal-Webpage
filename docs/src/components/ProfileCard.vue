@@ -1,6 +1,6 @@
 <template>
     <div>
-        <b-card class = "transparent" img-src="https://github.com/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/assets/me.jpg?raw=true" img-alt="Card image" img-left img-width = 23% img-height = 23%>
+        <b-card class = "transparent" img-src="https://github.com/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/assets/me.jpg?raw=true" img-alt="Card image" img-left img-width = 36% img-height = 36%>
         <b-card-body>
       <b-card-text class = "textintro">
         <h1> Hi! I'm Charles. </h1><br>
