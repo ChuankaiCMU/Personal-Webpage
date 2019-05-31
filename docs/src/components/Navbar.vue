@@ -7,11 +7,12 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
-        <b-nav-item href="#">Home</b-nav-item>
-        <b-nav-item href="#">Research</b-nav-item>
-        <b-nav-item href="#">Update</b-nav-item>
-        <b-nav-item href="#">Personal</b-nav-item>
+        <b-nav-item><router-link to="/" class = "navtext"> Home</router-link></b-nav-item>
+        <b-nav-item><router-link to="/Construction" class = "navtext"> Research</router-link></b-nav-item>
+        <b-nav-item> <router-link to="/Construction" class = "navtext"> Update</router-link></b-nav-item>
+        <b-nav-item> <router-link to="/Construction" class = "navtext"> Personal</router-link></b-nav-item>
       </b-navbar-nav>
+      <router-view></router-view>
     </b-collapse>
   </b-navbar>
 </div>
@@ -21,8 +22,8 @@
 .transparent {
   background-color: transparent!important;
  }
- .text{
-     color:white;
+ .navtext{
+     color:white!important;
      text-align: center!important;
  }
 </style>

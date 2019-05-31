@@ -2,7 +2,7 @@
     <div>
         <b-card class = "transparent" img-src="https://github.com/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/assets/me.jpg?raw=true" img-alt="Card image" img-left img-width = 23% img-height = 23%>
         <b-card-body>
-      <b-card-text class = "text">
+      <b-card-text class = "textintro">
         <h1> Hi! I'm Charles. </h1><br>
         <h2> I'm a researcher, a designer, and a </h2>
         <h2>nonprofessional basketball player.</h2><br>
@@ -17,7 +17,7 @@
 .transparent {
   background-color: transparent!important;
  }
- .text{
+ .textintro{
      color:white;
      text-align: center!important;
  }
