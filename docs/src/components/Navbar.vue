@@ -1,6 +1,6 @@
 <template>
     <div>
-  <b-navbar toggleable="lg" type="light" variant="warning" sticky = TRUE>
+  <b-navbar toggleable="lg" type="dark" fixed = 'top' class = "transparent">
     <b-navbar-brand href="#">Charles Chuankai Zhang</b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -16,3 +16,14 @@
   </b-navbar>
 </div>
 </template>
+
+
+<style>
+.transparent {
+  background-color: transparent!important;
+ }
+ .text{
+     color:white;
+     text-align: center!important;
+ }
+</style>

@@ -19,8 +19,8 @@ export default {
   color: #2c3e50;
 }
 body {
-  background-color: #95a673;
-  background-image: url("./assets/background.jpg");
+  background-color: black;
+  background-image: url("./assets/background1.jpg");
   background-size: 100%;
 }
 </style>
