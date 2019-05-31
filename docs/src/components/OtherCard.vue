@@ -4,9 +4,8 @@
     <b-card title="AboutMe" class = "transparent">
       <b-card-text>
         I am an HCI researcher at University of Minnesota. My research interest is social computing, data visualization,
-        crowdsourcing and educational data mining. My advisor is Loren Terveen and Haiyi Zhu. I'm very interested in  
-        interpreting people's learning process and generating insights or solutions from data produced by intelligent 
-        tutoring system or crowd workers.
+        crowdsourcing and educational data mining. My advisor is Loren Terveen and Haiyi Zhu. I'm very interested in
+        interpreting people's learning process and generating insights or solutions from data produced by intelligent tutoring system or crowd workers.
       </b-card-text>
     </b-card>
 
@@ -45,7 +44,7 @@
     color: #C41E3A;
 }
 .whu{
-    color:	#14522c;
+    color: #14522c;
 }
 .transparent {
   background-color: transparent!important;

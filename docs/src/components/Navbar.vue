@@ -17,7 +17,6 @@
 </div>
 </template>
 
-
 <style>
 .transparent {
   background-color: transparent!important;

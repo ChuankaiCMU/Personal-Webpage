@@ -20,7 +20,7 @@ export default {
   components: {
     Navbar,
     Profile,
-    Other,
+    Other
   }
 }
 </script>
