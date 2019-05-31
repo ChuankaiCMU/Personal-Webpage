@@ -1,7 +1,7 @@
 <template>
     <div>
   <b-navbar toggleable="lg" type="dark" fixed = 'top' class = "transparent">
-    <b-navbar-brand href="#">Charles Chuankai Zhang</b-navbar-brand>
+    <b-navbar-brand><router-link to="/" class = "navtext">Charles Chuankai Zhang</router-link></b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
