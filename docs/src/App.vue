@@ -21,6 +21,7 @@ export default {
 body {
   background-color: black;
   background-image: url("./assets/background1.jpg");
+  height: 100%;
   background-size: 100% auto;
 }
 </style>
