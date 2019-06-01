@@ -16,10 +16,12 @@
 <style>
 .transparent {
   background-color: transparent!important;
+  margin-top: auto;
+  margin-bottom: auto;
  }
  .textintro{
      color:white;
      text-align: center!important;
-     font-size: 200% !important;
+     font-size: 150% !important;
  }
 </style>
