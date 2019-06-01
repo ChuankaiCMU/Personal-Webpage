@@ -3,10 +3,10 @@
         <b-card class = "transparent" img-src="https://github.com/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/assets/me.jpg?raw=true" img-alt="Card image" img-left img-width = 36% img-height = 36%>
         <b-card-body>
       <b-card-text class = "textintro">
-        <h1> Hi! I'm Charles. </h1><br>
-        <h2> I'm a researcher, a designer, and a </h2>
-        <h2>nonprofessional basketball player.</h2><br>
-        <h1> Nice to meet you! </h1>
+        Hi! I'm Charles. <br>
+         I'm a researcher, a designer, and a<br>
+        nonprofessional basketball player.<br>
+        Nice to meet you!
       </b-card-text>
         </b-card-body>
     </b-card>
@@ -20,5 +20,6 @@
  .textintro{
      color:white;
      text-align: center!important;
+     font-size: 200% !important;
  }
 </style>
