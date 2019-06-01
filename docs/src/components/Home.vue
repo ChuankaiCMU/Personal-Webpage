@@ -28,11 +28,12 @@ export default {
 <style>
 .nav-container{
     padding-bottom: 1%;
+    margin-bottom: 2%;
 }
 .profile-container{
     padding-left: 1%;
     padding-right: 1%;
-    padding-top: 4%;
+    margin-top: 4%;
 }
 .other-container{
     padding-left: 1%;
