@@ -21,8 +21,10 @@ export default {
 body {
   background-color: black;
   background-image: url("./assets/background1.jpg");
-  height: 100%;
-  background-size: 100% auto;
+  height: 100vh;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
