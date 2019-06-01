@@ -1,6 +1,6 @@
 <template>
     <div>
-  <b-navbar toggleable="lg" type="dark" fixed = 'top' class = "transparent">
+  <b-navbar toggleable="lg" type="dark"  class = "transparent">
     <b-navbar-brand><router-link to="/" class = "navtext">Charles Chuankai Zhang</router-link></b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
