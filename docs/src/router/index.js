@@ -12,7 +12,7 @@ Vue.use(Router)
 Vue.use(BootstrapVue)
 Vue.use(VueMq, {
   breakpoints: {
-    mobile: 450,
+    mobile: 600,
     tablet: 900,
     laptop: 1250,
     desktop: Infinity

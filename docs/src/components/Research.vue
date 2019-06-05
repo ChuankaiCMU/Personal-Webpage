@@ -6,16 +6,21 @@
     <div class = "capstone-container">
     <Capstone></Capstone>
     </div>
+    <div class = "capstone-container">
+    <AbNet></AbNet>
+    </div>
   </div>
 </template>
 
 <script>
 import Navbar from './Navbar.vue'
 import Capstone from './Capstone.vue'
+import AbNet from './AbstractNet.vue'
 export default {
   components: {
     Navbar,
-    Capstone
+    Capstone,
+    AbNet
   }
 }
 </script>
@@ -26,7 +31,8 @@ export default {
 
 }
 .capstone-container{
-    padding-left: 1%;
-    padding-right: 1%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 </style>

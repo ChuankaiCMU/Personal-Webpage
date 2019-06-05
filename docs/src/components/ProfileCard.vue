@@ -13,7 +13,7 @@
     </b-card>
     </div>
     <div v-if="$mq === 'mobile'">
-        <b-card class = "transparent_profile" img-src="https://github.com/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/assets/me.jpg?raw=true" img-alt="Card image" img-top img-width = 36% img-height = 36%>
+        <b-card class = "transparent_profile" img-src="https://github.com/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/assets/me.jpg?raw=true" img-alt="Card image" img-top img-width = 100%>
         <b-card-body>
       <b-card-text class = "textintro">
         Hi! I'm Charles. <br>
@@ -32,6 +32,7 @@
   background-color: transparent!important;
   margin-top: auto;
   margin-bottom: auto;
+  border-color: transparent;
  }
  .textintro{
      color:white;
