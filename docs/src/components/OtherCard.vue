@@ -3,8 +3,8 @@
     <b-card-group >
     <b-card title="AboutMe" class = "transparent">
       <b-card-text class = "text">
-        I am an HCI researcher at University of Minnesota. My research interest is social computing, data visualization,
-        crowdsourcing and educational data mining. My advisor is Loren Terveen and Haiyi Zhu. I'm interested in
+        Charles Chuankai Zhang is a first year Ph.D student at University of Minnesota. Charles's advisor is <b-link href="https://www-users.cs.umn.edu/~terveen/">Loren Terveen</b-link> and <b-link href="https://haiyizhu.com/">Haiyi Zhu</b-link>. His research interest is social computing, data visualization,
+        crowdsourcing and educational data mining.  He is interested in
         interpreting people's learning process and generating insights and solutions from data produced by intelligent tutoring system or crowd workers.
       </b-card-text>
     </b-card>
@@ -24,12 +24,6 @@
         2019.8 - <span class = 'umn'>University of Minnesota Twin Cities </span>, Ph.D in Computer Science <br>
         2017.8 - 2019.5 <span class = 'cmu'>Carnegie Mellon University</span>, Master of Computational Data Science <br>
         2013.9 - 2017.6 <span class = 'whu'>Wuhan University</span>, Bachleor of Engineering <br>
-      </b-card-text>
-    </b-card>
-    <b-card title="Publication" class = "transparent">
-      <b-card-text class = "text">
-          Zhang, C., Huang, Y., Wang, J., Fang, W., Lu, D., Stamper, J., Fancsali, S., Holstein, K., & Aleven, V. (2019).  Early detection of wheel spinning: Comparison across tutors, models, features, and operationalizations. In Proceedings of the Twelfth International Conference on Educational Data Mining (EDM’19). IEDMS.  [pre-print available upon request]
-
       </b-card-text>
     </b-card>
 </div>
