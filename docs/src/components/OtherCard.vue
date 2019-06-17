@@ -4,8 +4,8 @@
     <b-card title="AboutMe" class = "transparent">
       <b-card-text class = "text">
         Charles Chuankai Zhang is a first year Ph.D student at University of Minnesota. Charles's advisor is <b-link href="https://www-users.cs.umn.edu/~terveen/">Loren Terveen</b-link> and <b-link href="https://haiyizhu.com/">Haiyi Zhu</b-link>. His research interest is social computing, data visualization,
-        crowdsourcing and educational data mining.  He is interested in
-        interpreting people's learning process and generating insights and solutions from data produced by intelligent tutoring system or crowd workers.
+        crowdsourcing and educational data mining. His recent research focus is combining qualitative and quantatitive research methods to understand the mechanism of online collaboration platforms like wikipedia.
+
       </b-card-text>
     </b-card>
 
