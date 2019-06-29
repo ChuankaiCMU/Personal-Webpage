@@ -23,7 +23,7 @@
   background-color: transparent!important;
  }
  .navtext{
-     color:white!important;
+     color:maroon!important;
      text-align: center!important;
  }
 </style>

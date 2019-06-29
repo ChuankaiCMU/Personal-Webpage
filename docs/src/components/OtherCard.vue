@@ -35,7 +35,7 @@
     color: black!important;
 }
 .umn{
-    color: #6b670e;
+    color: maroon;
 }
 .cmu{
     color: #C41E3A;

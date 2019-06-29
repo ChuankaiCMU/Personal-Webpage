@@ -35,7 +35,7 @@
   border-color: transparent;
  }
  .textintro{
-     color:white;
+     color:black;
      text-align: center!important;
      font-size: 150% !important;
  }
