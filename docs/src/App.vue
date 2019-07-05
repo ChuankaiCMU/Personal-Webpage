@@ -19,7 +19,7 @@ export default {
   color: #2c3e50;
 }
 body {
-  background-color: white;
+  background-color: rgb(168, 168, 165);
   /* background-image: url("./assets/background1.jpg"); */
   height: 100vh;
   min-width: 100%;

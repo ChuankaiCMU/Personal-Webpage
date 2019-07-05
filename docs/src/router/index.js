@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/components/Home'
 import Construction from '@/components/Temppage'
+import Personal from '@/components/Personal'
 import Research from '@/components/Research'
 import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
@@ -35,6 +36,12 @@ export default new Router({
       path: '/Research',
       name: 'Research',
       component: Research
+    },
+    {
+      path: '/Personal',
+      name: 'Personal',
+      component: Personal
     }
+
   ]
 })
