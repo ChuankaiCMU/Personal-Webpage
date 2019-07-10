@@ -15,13 +15,13 @@
     >
       <!-- Text slides with image -->
       <b-carousel-slide
-        text="Charles used to be the lead flute player in the Chinese Orchestra of Wuhan University. He loves traditional Chinese music and is good at playing flute, xun, bawu and other seven musical instruments."
+        text=""
         img-src="https://github.com/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/assets/Band.JPG?raw=true"
       ></b-carousel-slide>
 
       <!-- Slides with custom text -->
       <b-carousel-slide img-src="https://github.com/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/assets/Basketball.PNG?raw=true"
-       text="Charles loves playing basketball. His dream is to become an NBA player but now it seem less likely to come true as he eats too much fried chicken.">
+       text="">
         
       </b-carousel-slide>
 
@@ -50,9 +50,9 @@
       </b-carousel-slide> -->
     </b-carousel>
 
-    <p class="mt-4">
-      Slide #: {{ slide }}<br>
-      Sliding: {{ sliding }}
+    <p class="mt-5">
+      Charles used to be the lead flute player in the Chinese Orchestra of Wuhan University. He loves traditional Chinese music and is good at playing flute, xun, bawu and other seven musical instruments.
+      Charles also loves playing basketball. His dream is to become an NBA player but now it seem less likely to come true as he eats too much fried chicken.
     </p>
   </div>
 </template>
