@@ -22,7 +22,6 @@
       <!-- Slides with custom text -->
       <b-carousel-slide img-src="https://github.com/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/assets/Basketball.PNG?raw=true"
        text="">
-        
       </b-carousel-slide>
 
       <!-- Slides with image only -->
