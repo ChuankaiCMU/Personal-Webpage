@@ -3,7 +3,7 @@
     <b-carousel
       id="carousel-1"
       v-model="slide"
-      :interval="8000"
+      :interval="80000"
       controls
       indicators
       background="#ababab"
@@ -14,15 +14,16 @@
       @sliding-end="onSlideEnd"
     >
       <!-- Text slides with image -->
+      <b-carousel-slide img-src="https://github.com/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/assets/Basketball.PNG?raw=true"
+       text="">
+      </b-carousel-slide>
       <b-carousel-slide
         text=""
         img-src="https://github.com/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/assets/Band.JPG?raw=true"
       ></b-carousel-slide>
 
       <!-- Slides with custom text -->
-      <b-carousel-slide img-src="https://github.com/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/assets/Basketball.PNG?raw=true"
-       text="">
-      </b-carousel-slide>
+      
 
       <!-- Slides with image only -->
       <!-- <b-carousel-slide img-src="https://picsum.photos/1024/480/?image=58"></b-carousel-slide> -->
@@ -51,7 +52,7 @@
 
     <p class="mt-5">
       Charles used to be the lead flute player in the Chinese Orchestra of Wuhan University. He loves traditional Chinese music and is good at playing flute, xun, bawu and other seven musical instruments.
-      Charles also loves playing basketball. His dream is to become an NBA player but now it seem less likely to come true as he eats too much fried chicken.
+      Charles also loves playing basketball. His dream is to become an NBA player but now it seem less likely to come true.
     </p>
   </div>
 </template>
