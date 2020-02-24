@@ -8,6 +8,9 @@
         When building Intelligent Tutoring System(ITS), one of the major goals is to detect students' unproductive persistance(wheel spinning)
         in an early stage. In our project, we constructed six wheel spinning detectors and compared their performance under two different wheel spinning criteria with three datasets. The results show that two prominent
 criteria for wheel spinning diverge substantially, and that a Random Forest model has the most consistent performance in early detection of wheel spinning across datasets and wheel spinning criteria. This work brings us closer to unifying strands of prior work on wheel spinning (e.g., understanding how different criteria compare) and to early detection of wheel spinning in educational practice.
+      <a href = "https://files.eric.ed.gov/fulltext/ED599222.pdf" class = "paper">
+          [Paper]
+        </a>
       </b-card-text>
         </b-card-body>
     </b-card>
@@ -20,6 +23,9 @@ criteria for wheel spinning diverge substantially, and that a Random Forest mode
         When building Intelligent Tutoring System(ITS), one of the major goals is to detect students' unproductive persistance(wheel spinning)
         in an early stage. In our project, we constructed six wheel spinning detectors and compared their performance under two different wheel spinning criteria with three datasets. The results show that two prominent
 criteria for wheel spinning diverge substantially, and that a Random Forest model has the most consistent performance in early detection of wheel spinning across datasets and wheel spinning criteria. This work brings us closer to unifying strands of prior work on wheel spinning (e.g., understanding how different criteria compare) and to early detection of wheel spinning in educational practice.
+      <a href = "https://files.eric.ed.gov/fulltext/ED599222.pdf" class = "paper">
+          [Paper]
+        </a>
       </b-card-text>
         </b-card-body>
     </b-card>
