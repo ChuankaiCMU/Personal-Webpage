@@ -15,6 +15,7 @@
         <a href = 'https://www.linkedin.com/in/chuankaz/'><img src = '../assets/linkedin.png' class="imageformat" ></a>
         <a href = 'https://www.facebook.com/zhang.chuankai.5'><img src = '../assets/facebook.png' class="imageformat"></a>
         <a href = 'https://github.com/ChuankaiCMU/'><img src = '../assets/github.svg' class="imageformat"></a>
+        <a href = 'https://twitter.com/Charleszck'><img src = '../assets/twitter.png' class="imageformat"></a>
       </b-card-text>
     </b-card>
   </b-card-group>
