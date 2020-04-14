@@ -26,6 +26,11 @@
         2013.9 - 2017.6 <span class = 'whu'>Wuhan University</span>, Bachleor of Engineering <br>
       </b-card-text>
     </b-card>
+        <b-card title="Teaching Assistant" class = "transparent">
+      <b-card-text >
+        2020 Spring: CSCI 5115--User Interface Design, Implementation and Evaluation
+      </b-card-text>
+    </b-card>
 </div>
 </template>
 
