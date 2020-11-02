@@ -10,8 +10,7 @@
 
     <b-card title="Contact" class = "transparent">
       <b-card-text>
-        Email: zhan6914@umn.edu <br>
-        Phone: 412-708-7908 <br><br>
+        Email: zhan6914 at umn dot edu <br><br>
         <a href = 'https://www.linkedin.com/in/chuankaz/'><img src = '../assets/linkedin.png' class="imageformat" ></a>
         <a href = 'https://www.facebook.com/zhang.chuankai.5'><img src = '../assets/facebook.png' class="imageformat"></a>
         <a href = 'https://twitter.com/Charleszck'><img src = '../assets/twitter.png' class="imageformat"></a>
