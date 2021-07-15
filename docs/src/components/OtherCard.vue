@@ -3,7 +3,7 @@
     <b-card-group >
     <b-card title="AboutMe" class = "transparent">
       <b-card-text class = "text">
-        Charles Chuankai Zhang is a first year Ph.D student in <b-link href="https://grouplens.org/">Grouplens</b-link>, University of Minnesota. Charles's advisor is Prof. <b-link href="https://www-users.cs.umn.edu/~terveen/">Loren Terveen</b-link>. His research interest lies in social computing, data visualization,
+        Charles Chuankai Zhang is a third year Ph.D student in <b-link href="https://grouplens.org/">Grouplens</b-link>, University of Minnesota. Charles's advisor is Prof. <b-link href="https://www-users.cs.umn.edu/~terveen/">Loren Terveen</b-link>. His research interest lies in social computing, data visualization,
         crowdsourcing and educational data mining. His recent research focus is combining qualitative and quantatitive research methods to understand the mechanism of peer production platforms like wikipedia and help members of the community meet their goals.
       </b-card-text>
     </b-card>
