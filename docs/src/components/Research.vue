@@ -4,6 +4,9 @@
     <Navbar></Navbar>
     </div>
     <div class = "capstone-container">
+    <WikiCSCW></WikiCSCW>
+    </div>
+    <div class = "capstone-container">
     <Gender></Gender>
     </div>
     <div class = "capstone-container">
@@ -34,12 +37,14 @@ import Navbar from './Navbar.vue'
 import Capstone from './Capstone.vue'
 import AbNet from './AbstractNet.vue'
 import Gender from './GenderGap.vue'
+import WikiCSCW from './WikidataCSCW.vue'
 export default {
   components: {
     Navbar,
     Gender,
     Capstone,
-    AbNet
+    AbNet,
+    WikiCSCW
   }
 }
 </script>
