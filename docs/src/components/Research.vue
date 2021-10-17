@@ -18,6 +18,9 @@
     <div class = "capstone-container">
     <b-card title="Publication" class = "transparent">
       <b-card-text>
+        Charles Chuankai Zhang, Mo Houtti, C. Estelle Smith, Ruoyan Kong, and Loren Terveen. 2021. Working forthe Invisible Machines or Pumping Information into an Empty Void? An Exploration of Wikidata Contributors’Motivations . (CSCW 2022)
+      </b-card-text>
+      <b-card-text>
         <a href = "https://nbviewer.jupyter.org/github/ChuankaiCMU/Personal-Webpage/blob/master/docs/src/publication/opensym2021-6.pdf" class = "paper">
           Charles Chuankai Zhang and Loren Terveen. 2021. Quantifying the Gap: A Case Study of Wikidata Gender Disparities. In 17th International Symposium on Open Collaboration (OpenSym 2021)
         </a>
