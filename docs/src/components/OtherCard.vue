@@ -3,7 +3,7 @@
     <b-card-group >
     <b-card title="AboutMe" class = "transparent">
       <b-card-text class = "text">
-        Charles Chuankai Zhang is a third year Ph.D student in <b-link href="https://grouplens.org/">Grouplens</b-link>, University of Minnesota. Charles's advisor is Prof. <b-link href="https://www-users.cs.umn.edu/~terveen/">Loren Terveen</b-link>. His research interest lies in social computing, data visualization,
+        Charles Chuankai Zhang is a fourth year Ph.D candidate in <b-link href="https://grouplens.org/">Grouplens</b-link>, University of Minnesota. Charles's advisor is Prof. <b-link href="https://www-users.cs.umn.edu/~terveen/">Loren Terveen</b-link>. His research interest lies in social computing, data visualization,
         crowdsourcing and educational data mining. His recent research focus is combining qualitative and quantatitive research methods to understand the mechanism of peer production platforms like wikipedia and help members of the community meet their goals.
       </b-card-text>
     </b-card>
@@ -24,8 +24,11 @@
         2013.9 - 2017.6 <span class = 'whu'>Wuhan University</span>, Bachleor of Engineering <br>
       </b-card-text>
     </b-card>
-        <b-card title="Teaching Assistant" class = "transparent">
+        <b-card title="Teaching" class = "transparent">
       <b-card-text >
+        2022 Fall  : CSCI 5115--User Interface Design, Implementation and Evaluation <br>
+        2022 Spring : Instructor -- CSCI 1133 Introduction to Computing and Programming Concepts <br> 
+        2021 Fall  : CSCI 5115--User Interface Design, Implementation and Evaluation <br>
         2020 Fall  : CSCI 5115--User Interface Design, Implementation and Evaluation <br>
         2020 Spring: CSCI 5115--User Interface Design, Implementation and Evaluation
       </b-card-text>
