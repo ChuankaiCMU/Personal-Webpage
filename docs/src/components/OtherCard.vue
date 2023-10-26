@@ -26,11 +26,13 @@
     </b-card>
         <b-card title="Teaching" class = "transparent">
       <b-card-text >
-        2022 Fall  : CSCI 5115--User Interface Design, Implementation and Evaluation <br>
+        2023 Fall  : Teaching Assistant -- CSCI 5115 User Interface Design, Implementation and Evaluation <br>
+        2023 Spring : Instructor -- CSCI 5125 Social Computing <br>
+        2022 Fall  : Teaching Assistant -- CSCI 5115 User Interface Design, Implementation and Evaluation <br>
         2022 Spring : Instructor -- CSCI 1133 Introduction to Computing and Programming Concepts <br> 
-        2021 Fall  : CSCI 5115--User Interface Design, Implementation and Evaluation <br>
-        2020 Fall  : CSCI 5115--User Interface Design, Implementation and Evaluation <br>
-        2020 Spring: CSCI 5115--User Interface Design, Implementation and Evaluation
+        2021 Fall  : Teaching Assistant -- CSCI 5115 User Interface Design, Implementation and Evaluation <br>
+        2020 Fall  : Teaching Assistant -- CSCI 5115 User Interface Design, Implementation and Evaluation <br>
+        2020 Spring: Teaching Assistant -- CSCI 5115 User Interface Design, Implementation and Evaluation <br>
       </b-card-text>
     </b-card>
 </div>
